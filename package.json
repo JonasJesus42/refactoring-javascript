@@ -1,0 +1,13 @@
+{
+  "name": "refactoring-javascript",
+  "version": "0.0.1",
+  "description": "This repository contains examples and exercises inspired by the book *Refactoring* by Martin Fowler. The goal is to study and apply refactoring techniques to improve code structure, readability, and maintainability using JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonas Jesus",
+  "license": "MIT",
+    "type": "module"
+}
